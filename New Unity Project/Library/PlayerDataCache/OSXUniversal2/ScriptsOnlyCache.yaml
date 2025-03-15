@@ -1,0 +1,60 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - Clock
+  serializedClasses: {}
+  methodsToPreserve: []
+  sceneClasses:
+    Assets/Clock.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 17906}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: 1e03d67db8fd6329ae6ee2cbeac703e9
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Clock
+  - hash:
+      serializedVersion: 2
+      Hash: 351f275515398e10986dfe5b3946f666
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: NewBehaviourScript
+  platform: 2
+  scenePathNames:
+  - Assets/Clock.unity
+  playerPath: /Users/brittany/IMDM 101 - Introduction to Immersive Media/New Unity
+    Project/New Unity Project/Clock.app
